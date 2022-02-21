@@ -1,6 +1,6 @@
 👋 Hi, I’m @luujennifer  
-👀 I’m interested in cloud technology, cybersecurity, cryptography, app development, artificial intelligence and blockchain.  
-🌱 I’m currently learning about iOS and software for Autonomous Vehicles.  
+👀 I’m interested in app development, blockchain, cybersecurity and cryptography, and human spaceflight, exploration and EVA.  
+🌱 I’m currently learning Python and software development for Autonomous Vehicles.  
 🎓 I'm currently studying to become a Software Engineer specialising in Real Time Systems.
 
 <!---
